@@ -11,13 +11,13 @@
 
 ### 🔧 Setup
 
-- Go to the '/_config' folder and the 'config.php' file
+- Go to the `'/_config'` folder and the `'config.php'` file
 
-- In this one, go to 'Database Infos'
+- In this one, go to `'Database Infos'`
 
 - Edit the information, so you can connect to your database.
 
-- Save it, and try to refresh your page.
+- `Save` it, and try to `refresh` your page.
 
 ### 📌 Support
 
